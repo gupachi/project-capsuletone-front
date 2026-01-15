@@ -1,5 +1,5 @@
-<p align="center">
-
+<p align="start">
+<img width="166" height="175" alt="Image" src="https://github.com/user-attachments/assets/ef3281b3-306a-47e4-9df2-58b9207efe7e" />
 </p>
 
 ## 필가이
@@ -12,4 +12,8 @@ AI 기반 개인 약 복용 관리 및 증상별 맞춤형 추천 케어 애플�
 ## 프로젝트 상세 정보 
 - 2025년 한성대학교 컴퓨터공학부 졸업 작품
 - 프로젝트 기간: 2025.02.05 ~ 2025.06.08
-- 멤버: 전지원,김동휘,노경민,박진영 
+- 팀: 전지원,김동휘,노경민,박진영 
+
+## 프로젝트 시연 
+https://github.com/user-attachments/assets/863d6156-2196-469e-8b0e-fdaa1d33a6c8
+
