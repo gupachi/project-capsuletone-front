@@ -1,16 +1,15 @@
-# capsuleton_flutter
+<p align="center">
 
-mobile_ capstone_frontend_project
+</p>
+<div align="center">
+## 필가이
+AI 기반 개인 약 복용 관리 및 증상별 맞춤형 추천 케어 애플리케이션 
+</div>
 
-## Getting Started
+## 프로젝트 소개 
+복약 관리에 어려움을 겪는 사람들에게 OCR 기반 처방전 자동 등록, AI 증상 분석 및 약 추천, 복약 알림, 캘린더 기반 일정 관리, 공공데이터 연동 약품 정보 제공 등 체계적인 복약 관리 기능을 제공하는 AI 기반 맞춤형 건강관리 앱입니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 프로젝트 상세 정보 
+- 2025년 한성대학교 컴퓨터공학부 졸업 작품
+- 프로젝트 기간: 2025.02.05 ~ 2025.06.08
+- 멤버: 전지원,김동휘,노경민,박진영 
